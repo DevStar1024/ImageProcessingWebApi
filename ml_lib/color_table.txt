@@ -1,0 +1,41 @@
+255 255 255	//comment 01 SBGR
+255 255   0	//comment 02 SBG
+255   0 255	//comment 03 SGR
+255   0   0	//comment 04 SB
+  0 255 255	//comment 05 SGR
+  0 255   0	//comment 06 SG
+  0   0 255	//comment 07 SR
+196 196 196	//comment 08 S
+128 128 128	//comment 09 BGR
+128 128   0	//comment 10 BG
+128   0 128	//comment 11 BR
+128   0   0	//comment 12 B
+  0 128 128	//comment 13 GR
+  0 128   0	//comment 14 G
+  0   0 128	//comment 15 R
+  0   0   0		//comment 16 base-color
+
+
+//comment: this file is a sample of color table
+//comment: color_table.txt
+//comment:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
